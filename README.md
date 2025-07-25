@@ -534,3 +534,5 @@ For more in-depth details and the latest updates, visit the [smart-cache-cli pac
 ---
 
 > 🏃 Head to your next challenge [here](https://www.speedrunstylus.com/challenge/simple-nft-example).
+#   s p e e d r u n - c o u n t e r  
+ 
