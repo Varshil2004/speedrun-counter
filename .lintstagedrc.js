@@ -1,3 +1,4 @@
+//this ia a java script code have functions, variable.
 const path = require("path");
 
 const buildNextEslintCommand = (filenames) =>
