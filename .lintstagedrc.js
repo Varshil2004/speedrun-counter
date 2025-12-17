@@ -1,4 +1,3 @@
-//this java script code for speedrun-counter.
 const path = require("path");
 
 const buildNextEslintCommand = (filenames) =>
