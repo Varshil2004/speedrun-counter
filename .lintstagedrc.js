@@ -1,3 +1,5 @@
+//this is a java script code for lintstagedrc.
+//this code have function and methods.
 const path = require("path");
 const buildNextEslintCommand = (filenames) =>
   `yarn next:lint --fix --file ${filenames
