@@ -1,4 +1,4 @@
-
+//this is a speeddrun - counter.
 const path = require("path");
 const buildNextEslintCommand = (filenames) =>
   `yarn next:lint --fix --file ${filenames
