@@ -1,5 +1,4 @@
 //this is a speeddrun - counter code.
-//this is a java script code.
 const path = require("path");
 const buildNextEslintCommand = (filenames) =>
   `yarn next:lint --fix --file ${filenames
