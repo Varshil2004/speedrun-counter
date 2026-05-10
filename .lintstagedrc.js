@@ -1,4 +1,4 @@
-
+//this is a js code.
 const path = require("path");
 const buildNextEslintCommand = (filenames) =>
   `yarn next:lint --fix --file ${filenames
